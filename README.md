@@ -28,6 +28,7 @@ M8 Hex Socket Cap Screw, at least length 90 (recommended 100mm)| 2 | Axles
 M3 Hex Socket Cap Screw, 25mm | 2 | Adjustment screws
 M3 Hex Socket Cap Screwn, 14mm (max. 18mm) | 4 | Hopper attachment screws
 M3 Hex Nut or Square Nut (both will work) | 6 | For screws' stability
+M8 Hex Nut | 6 | 4 for rollers, 2 for gears
 
 ### Printed parts
 
